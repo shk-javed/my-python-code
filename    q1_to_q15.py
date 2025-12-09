@@ -109,3 +109,7 @@ for name, age in people:
 print("\nMethod 3:")
 for i, (name, age) in enumerate(people, 1):
     print(f"{i}. {name} - {age} years")
+    
+
+
+
