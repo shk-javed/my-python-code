@@ -56,3 +56,6 @@ if 90 <= marks <= 100:
 elif 80 <= marks < 90:
     grade = "A"  # ✅ This will execute
     
+    
+    
+    
