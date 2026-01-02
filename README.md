@@ -66,10 +66,6 @@ If you're on a similar learning journey, let's connect and learn together!
 
 I'm committed to pushing code daily and maintaining consistency in my learning journey. Every commit represents progress, no matter how small!
 
----
 
-**Started:** [Your Start Date]  
-**Current Streak:** 🔥 [X] days  
-**Total Commits:** [X]
 
 > "The only way to learn programming is by programming every day." 💡
