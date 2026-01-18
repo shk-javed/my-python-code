@@ -98,7 +98,7 @@ people = [("Munir", 25), ("Amit", 30), ("Priya", 28)]
 
 print("Method 1:")
 for person in people:
-    print(f"{person[0]} is {person[1]} years old")
+    print(f"{person[0]} is {person[1]} years old man")
 
 
 print("\nMethod 2:")
